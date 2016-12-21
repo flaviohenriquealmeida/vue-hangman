@@ -1,0 +1,97 @@
+.hangman {
+    background: url(../img/hangman.jpeg) no-repeat;
+    width: 813px;
+    height: 312px;
+    margin: 0 auto;
+}
+
+.hangman-sprite-1 {
+    background-position: 0 0;
+    width: 162.6px;
+    height: 160.5px;
+}
+
+.hangman-sprite-2 {
+    background-position: 25% 0;
+    width: 162.6px;
+    height: 160.5px;
+}
+
+.hangman-sprite-3 {
+    background-position: 50% 0;
+    width: 162.6px;
+    height: 160.5px;
+}
+
+.hangman-sprite-4 {
+    background-position: 75% 0;
+    width: 162.6px;
+    height: 160.5px;
+}
+
+.hangman-sprite-4 {
+    background-position: 75% 0;
+    width: 162.6px;
+    height: 160.5px;
+}
+
+.hangman-sprite-5 {
+    background-position: 100% 0;
+    width: 162.6px;
+    height: 160.5px;
+}
+
+.hangman-sprite-6 {
+    background-position: 0 100%;
+    width: 162.6px;
+    height: 160.5px;
+}
+
+.hangman-sprite-6 {
+    background-position: 0 100%;
+    width: 162.6px;
+    height: 160.5px;
+}
+
+.hangman-sprite-7 {
+    background-position: 25% 100%;
+    width: 162.6px;
+    height: 160.5px;
+}
+
+.hangman-sprite-8 {
+    background-position: 50% 100%;
+    width: 162.6px;
+    height: 160.5px;
+}
+
+.hangman-sprite-9 {
+    background-position: 75% 100%;
+    width: 162.6px;
+    height: 160.5px;
+}
+
+
+.hangman-sprite-10 {
+    background-position: 100% 100%;
+    width: 162.6px;
+    height: 160.5px;
+}
+
+.letra {
+    display: inline-block;
+    font-size: 2em;
+    border: solid 2px;
+    padding: 2%;
+    margin: 1%;
+}
+
+.letra-errada {
+    display: block;
+}
+
+.chutesErrados {
+    color: red;
+    font-size: 2em;
+    margin: 0 auto;
+}
